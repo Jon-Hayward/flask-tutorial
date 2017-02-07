@@ -2,5 +2,5 @@
 flask tutorial completed on treehouse
 
 for future reference - 
-  Heroku
+  https://www.heroku.com/
   
